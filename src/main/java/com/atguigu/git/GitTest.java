@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("got-fix");
         System.out.println("master1");
         System.out.println("wangye");
+        System.out.println("wangye1");
     }
 }
