@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("123");
         System.out.println("123");
         System.out.println("4");
+        System.out.println("got-fix");
     }
 }
